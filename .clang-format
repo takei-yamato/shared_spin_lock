@@ -1,0 +1,13 @@
+BasedOnStyle: Google
+SortIncludes: Never
+IndentWidth: 4
+AccessModifierOffset: -4
+ColumnLimit: 0
+AlignConsecutiveAssignments: true
+AlignConsecutiveDeclarations: true
+AlignEscapedNewlines: true
+AllowShortBlocksOnASingleLine: Never
+AlignArrayOfStructures: Right
+AlignAfterOpenBracket: Align
+#BinPackArguments: false
+BinPackParameters: true
